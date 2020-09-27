@@ -2475,6 +2475,12 @@ fieldset:disabled a.btn {
   border-color: #1abc9c;
 }
 
+.btn-Itch {
+  color: #fff;
+  background-color: #1abc9c;
+  border-color: #1abc9c;
+}
+
 .btn-primary:hover {
   color: #fff;
   background-color: #159a80;
