@@ -2493,6 +2493,12 @@ fieldset:disabled a.btn {
   border-color: #E24329;
 }
 
+.btn-Links {
+  color: #fff;
+  background-color: #31B4DD;
+  border-color: #31B4DD;
+}
+
 .btn-primary:hover {
   color: #fff;
   background-color: #159a80;
