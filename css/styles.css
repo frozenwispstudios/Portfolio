@@ -2499,6 +2499,18 @@ fieldset:disabled a.btn {
   border-color: #31B4DD;
 }
 
+.btn-Instagram {
+  color: #fff;
+  background-color: #BF244E;
+  border-color: #BF244E;
+}
+
+.btn-Twitter {
+  color: #fff;
+  background-color: #1DA1F2;
+  border-color: #1DA1F2;
+}
+
 .btn-primary:hover {
   color: #fff;
   background-color: #159a80;
