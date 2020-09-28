@@ -2477,8 +2477,20 @@ fieldset:disabled a.btn {
 
 .btn-Itch {
   color: #fff;
-  background-color: #1abc9c;
-  border-color: #1abc9c;
+  background-color: #F25959;
+  border-color: #F25959;
+}
+
+.btn-GitHub {
+  color: #fff;
+  background-color: #282828;
+  border-color: #282828;
+}
+
+.btn-GitLab {
+  color: #fff;
+  background-color: #E24329;
+  border-color: #E24329;
 }
 
 .btn-primary:hover {
