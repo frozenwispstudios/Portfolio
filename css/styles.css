@@ -2487,9 +2487,9 @@ fieldset:disabled a.btn {
 }
 
 .btn-GitHub {
-  color: #fff;
-  background-color: #282828;
-  border-color: #282828;
+    color: #fff;
+    background-color: #2C3E50;
+    border-color: #2C3E50;
 }
 
 .btn-GitLab {
@@ -2502,6 +2502,12 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #31B4DD;
   border-color: #31B4DD;
+}
+
+.btn-PDFs {
+    color: #fff;
+    background-color: #AD0B00;
+    border-color: #31B4DD;
 }
 
 .btn-Instagram {
@@ -5510,16 +5516,16 @@ a.close.disabled {
 }
 
 .modal-content {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  pointer-events: auto;
-  background-color: #fff;
-  background-clip: padding-box;
-  border: 0 solid rgba(0, 0, 0, 0.2);
-  border-radius: 0.75rem;
-  outline: 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #282828;
+    background-clip: padding-box;
+    border: 0 solid rgba(0, 0, 0, 0.2);
+    border-radius: 0.75rem;
+    outline: 0;
 }
 
 .modal-backdrop {
@@ -9851,7 +9857,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary-modal {
-  color: #2C3E50 !important;
+  color: #fff !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
